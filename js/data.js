@@ -67,9 +67,10 @@ window.PROJECTS = [
   { slug: "storfund", title: "Storfund", url: "https://storfund.com/", cat: "web", feature: true, hue: "#0f3d63",
     tag: "B2B fintech platform",
     desc: "Collaborated with the marketing team on graphic design: social media design, logo work, email banners and website material." },
-  { slug: "insideup", title: "InsideUp", url: "https://www.insideup.com/", cat: "web", feature: true, hue: "#0d5aa7",
-    tag: "BPO consulting",
-    desc: "Designed the complete website and presentation decks." },
+  { slug: "histrips", title: "HiStrips", url: "https://histrips.com/", cat: "web", feature: true, hue: "#111111",
+    tag: "Sports performance & sleep brand", desc: "Store design for a brand selling nasal strips, mouth tape and recovery gear to athletes." },
+  { slug: "strandbags", title: "Strandbags", url: "https://www.strandbags.com.au/", cat: "web", feature: true, hue: "#111111",
+    tag: "Bags & luggage retail, Australia", desc: "E-commerce design work." },
 
   // ---------- Websites & SaaS (grid) ----------
   { slug: "histrips", title: "HiStrips", url: "https://histrips.com/", cat: "web", hue: "#111111",
