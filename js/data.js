@@ -81,32 +81,24 @@ window.PROJECTS = [
     tag: "Website", desc: "Website design." },
   { slug: "pokermoose", title: "Poker Moose", url: "https://www.pokermoose.com/", cat: "web", hue: "#1e6b3a",
     tag: "Website", desc: "Website design." },
-  { slug: "seantheapp", title: "Sean the App", url: "https://www.seantheapp.com/", cat: "web", hue: "#3a55d9",
-    tag: "App website", desc: "Website design." },
+  { slug: "boldify", title: "Boldify", url: "https://getboldify.com/", cat: "web", hue: "#7A3FF2",
+    tag: "Haircare brand", desc: "E-commerce design work." },
 
   // ---------- Mobile apps ----------
-  { slug: "app-sentimeter", title: "Sentimeter", url: "https://play.google.com/store/apps/details?id=com.sentimeterNode", cat: "app", hue: "#5b4bdb",
-    tag: "Android app", desc: "Mobile app design." },
-  { slug: "app-mlsconnect", title: "MLS Connect", url: "https://play.google.com/store/apps/details?id=com.immosquare.mls.connect", cat: "app", hue: "#0e6ba8",
-    tag: "Real estate app", desc: "Mobile app design." },
-  { slug: "app-skinscanner", title: "Skin Scanner", url: "https://play.google.com/store/apps/details?id=com.derma.skinScanner", cat: "app", hue: "#e27d8f",
-    tag: "Skin health app", desc: "Mobile app design." },
+  
+
   { slug: "app-edx", title: "edX", url: "https://play.google.com/store/apps/details?id=org.edx.mobile", cat: "app", hue: "#02262b",
     tag: "Online learning app", desc: "Mobile app design." },
-  { slug: "app-goally", title: "Goally", url: "https://play.google.com/store/apps/details?id=com.getgoally.learnerapp", cat: "app", hue: "#7c4dff",
-    tag: "Kids learning app", desc: "Mobile app design." },
   { slug: "app-emiga", title: "Emiga", url: "https://play.google.com/store/apps/details?id=com.phinex.emiga&hl=en", cat: "app", hue: "#11998e",
     tag: "Android app", desc: "Mobile app design." },
 
-  // ---------- Shopify stores ----------
+  // ---------- Shopify stores & Apps ----------
   { slug: "buckpalmer", title: "Buck Palmer", url: "https://buckpalmer.com/", cat: "shopify", hue: "#2c2c2c",
     tag: "Shopify store", desc: "Shopify store design." },
   { slug: "borrowingmagnolia", title: "Borrowing Magnolia", url: "https://www.borrowingmagnolia.com/", cat: "shopify", hue: "#b5977a",
     tag: "Shopify store", desc: "Shopify store design." },
   { slug: "jubilee", title: "Jubilee Beauty", url: "https://jubilee.beauty/", cat: "shopify", hue: "#d98aa6",
     tag: "Beauty store", desc: "Shopify store design." },
-  { slug: "qrpro", title: "QR Pro", url: "https://www.qrpro.co/", cat: "shopify", hue: "#2e7cf6",
-    tag: "Shopify", desc: "Shopify design." },
   { slug: "momentumedu", title: "Momentum Edu", url: "http://momentumedu.org/", cat: "shopify", hue: "#f2a33a",
     tag: "Education", desc: "Website design." },
   { slug: "weworkremotely", title: "We Work Remotely", url: "https://weworkremotely.com/", cat: "shopify", hue: "#e04e39",
@@ -119,6 +111,14 @@ window.PROJECTS = [
     tag: "Sports performance & sleep brand", desc: "Store design for a brand selling nasal strips, mouth tape and recovery gear to athletes." },
   { slug: "strandbags", title: "Strandbags", url: "https://www.strandbags.com.au/", cat: "shopify", hue: "#111111",
     tag: "Bags & luggage retail, Australia", desc: "E-commerce design work." },
+   { slug: "neuro", title: "Neuro", url: "https://neurogum.com/", cat: "shopify", hue: "#1B3FE4",
+    tag: "Supplements brand", desc: "E-commerce design work." },
+{ slug: "loop-earplugs", title: "Loop Earplugs", url: "https://www.loopearplugs.com/", cat: "shopify", hue: "#F26B4E",
+    tag: "Tech accessories brand", desc: "E-commerce design work." },
+{ slug: "dulora", title: "Dulora", url: "https://dulora.com.au/", cat: "shopify", hue: "#C8A45C",
+    tag: "Premium lighting brand", desc: "E-commerce design work." },
+{ slug: "boldify", title: "Boldify", url: "https://getboldify.com/", cat: "shopify", hue: "#7A3FF2",
+    tag: "Haircare brand", desc: "E-commerce design work." },
 ];
 
 /* Graphic design: Amazon product design, posters, packaging.
