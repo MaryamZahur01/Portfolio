@@ -1,0 +1,12 @@
+{
+  "name": "maryam-zahoor-portfolio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "shots": "node scripts/capture.mjs",
+    "setup": "npx playwright install chromium"
+  },
+  "devDependencies": {
+    "playwright": "^1.47.0"
+  }
+}

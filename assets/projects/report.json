@@ -1,0 +1,172 @@
+{
+  "captured": "2026-09-30T07:29:35.057490Z",
+  "results": [
+    {
+      "slug": "oraami",
+      "url": "https://oraami.com/",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "baselinelabs",
+      "url": "https://baselinelabs.ai/",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "smartli",
+      "url": "https://www.smartli.ai/",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "qoyod",
+      "url": "https://www.qoyod.com/en/",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "coredirection",
+      "url": "https://coredirection.com/",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "spocket",
+      "url": "https://www.spocket.co/",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "storfund",
+      "url": "https://storfund.com/",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "insideup",
+      "url": "https://www.insideup.com/",
+      "ok": false,
+      "note": "HTTP 403"
+    },
+    {
+      "slug": "histrips",
+      "url": "https://histrips.com/",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "strandbags",
+      "url": "https://www.strandbags.com.au/",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "gemmapell",
+      "url": "https://gemmapell.com/",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "pokermoose",
+      "url": "https://www.pokermoose.com/",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "seantheapp",
+      "url": "https://www.seantheapp.com/",
+      "ok": false,
+      "note": "could not open (page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.seantheapp.com/)"
+    },
+    {
+      "slug": "app-sentimeter",
+      "url": "https://play.google.com/store/apps/details?id=com.sentimeterNode",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "app-mlsconnect",
+      "url": "https://play.google.com/store/apps/details?id=com.immosquare.mls.connect",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "app-skinscanner",
+      "url": "https://play.google.com/store/apps/details?id=com.derma.skinScanner",
+      "ok": false,
+      "note": "store page HTTP 404"
+    },
+    {
+      "slug": "app-edx",
+      "url": "https://play.google.com/store/apps/details?id=org.edx.mobile",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "app-goally",
+      "url": "https://play.google.com/store/apps/details?id=com.getgoally.learnerapp",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "app-emiga",
+      "url": "https://play.google.com/store/apps/details?id=com.phinex.emiga&hl=en",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "buckpalmer",
+      "url": "https://buckpalmer.com/",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "borrowingmagnolia",
+      "url": "https://www.borrowingmagnolia.com/",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "jubilee",
+      "url": "https://jubilee.beauty/",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "qrpro",
+      "url": "https://www.qrpro.co/",
+      "ok": false,
+      "note": "HTTP 404"
+    },
+    {
+      "slug": "momentumedu",
+      "url": "http://momentumedu.org/",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "weworkremotely",
+      "url": "https://weworkremotely.com/",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "voicerules",
+      "url": "https://www.voicerules.com/",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "dropshippod",
+      "url": "https://dropshippod.ca/",
+      "ok": true,
+      "note": "saved"
+    },
+    {
+      "slug": "behance",
+      "ok": false,
+      "note": "0 covers (Behance returned HTTP 429, blocking automated access)"
+    }
+  ]
+}
