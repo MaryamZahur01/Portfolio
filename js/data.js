@@ -9,7 +9,7 @@ window.SITE = {
   role: "Graphic & UI/UX Designer",
 
   // >>> Put your real email here (used by "Contact me" and "Get a quote")
-  email: "hello@maryamzahoor.com",
+  email: "m.zahoor0504@gmail.com",
 
   // >>> WhatsApp number with country code, digits only, e.g. "923001234567".
   //     Leave empty "" to hide the floating WhatsApp button.
@@ -115,6 +115,10 @@ window.PROJECTS = [
     tag: "Shopify", desc: "Store design." },
   { slug: "dropshippod", title: "Dropship POD", url: "https://dropshippod.ca/", cat: "shopify", hue: "#1d9a6c",
     tag: "Print on demand", desc: "Store design." }
+   { slug: "histrips", title: "HiStrips", url: "https://histrips.com/", cat: "shopify", hue: "#111111",
+    tag: "Sports performance & sleep brand", desc: "Store design for a brand selling nasal strips, mouth tape and recovery gear to athletes." },
+  { slug: "strandbags", title: "Strandbags", url: "https://www.strandbags.com.au/", cat: "shopify", hue: "#111111",
+    tag: "Bags & luggage retail, Australia", desc: "E-commerce design work." },
 ];
 
 /* Graphic design: Amazon product design, posters, packaging.
